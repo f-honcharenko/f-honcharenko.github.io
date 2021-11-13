@@ -1,0 +1,24 @@
+body{
+    background-color: #222;
+    color: white;
+    font-family: monospace;
+    margin: 0;
+    padding: 0;
+    font-size: 14pt;
+}
+table{
+    top:100px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 100%;
+}
+a {
+    color: #ffefef; /* Цвет ссылок */
+}
+a:visited {
+    color: #ffefef; /* Цвет посещенных ссылок */
+}
+a:active {
+    color: #ffefef; /* Цвет активных ссылок */
+}
